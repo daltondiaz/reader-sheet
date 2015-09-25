@@ -1,8 +1,11 @@
 # reader-sheet
 
-FIXME: description
+This is a project in clojure for study. The goal is in the end create a simples application for reader a sheet.
 
 ## Installation
+
+Java
+Leiningen https://github.com/technomancy/leiningen . Leiningen is a project management tool for Clojure projects.
 
 Download from http://example.com/FIXME.
 
